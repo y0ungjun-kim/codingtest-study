@@ -13,21 +13,6 @@
 
 ---
 
-## 📂 구조
-baekjoon-study/
-├── python/
-│ ├── implementation/
-│ ├── binary_search/
-│ ├── bfs/
-│ ├── dfs/
-│ ├── dp/
-│ └── greedy/
-└── notes/
-├── mistakes.md
-├── bfs_dfs.md
-└── binary_search.md
----
-
 ## 🧩 진행 방식
 - 문제 풀이 후 유형별로 분류
 - 코드 상단에 핵심 아이디어 작성
